@@ -28,12 +28,24 @@ This project allows anyone to **fund the contract with ETH** while ensuring only
 ## 📂 Project Structure  
 ├── src/
 │ └── FundMe.sol # Main crowdfunding contract
+
 ├── test/
 │ └── FundMe.t.sol # Unit tests for contract
+
 ├── script/
 │ └── DeployFundMe.s.sol # Deployment script
+
 └── foundry.toml # Foundry config file
 
+
+## 🙌 About the Author  
+
+👤 **Abhinav Malik**  
+
+
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20Malik-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-malik-16b493277/)  
+[![GitHub](https://img.shields.io/badge/GitHub-abhinav15ab--bot-black?logo=github)](https://github.com/abhinav15ab-bot)
 
 ---
 
@@ -71,23 +83,6 @@ Running 4 tests for test/FundMe.t.sol
 [PASS] testFundUpdatesDataStructure()
 [PASS] testOwnerCanWithdraw()
 [PASS] testMinimumEthRequirement()
-[PASS] testOnlyOwnerCanWithdraw()```
+[PASS] testOnlyOwnerCanWithdraw()
 
 
-
-
-[![Abhinav Malik Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-malik-16b482327/)
-
-
----
-
-## 🙌 About the Author  
-
-👤 **Abhinav Malik**  
-
-
-🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20Malik-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-malik-16b493277/)  
-[![GitHub](https://img.shields.io/badge/GitHub-abhinav15ab--bot-black?logo=github)](https://github.com/abhinav15ab-bot)  
-
----
