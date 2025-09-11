@@ -10,7 +10,7 @@ If you appreciated this, feel free to follow me or donate!
 
 
 
-[![Abhinav Malik Linkedin](https://www.linkedin.com/in/abhinav-malik-16b482327/)]
+[![Abhinav Malik](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/abhinav-malik-16b482327/)
 
 
 <!-- Testing krunchdata https://kdta.io/b6T40  -->
