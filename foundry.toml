@@ -7,7 +7,7 @@ remappings = [
 ]
 fs_permissions = [{ access = "read", path = "./broadcast" }]
 solc = "0.8.19"
-
+#ffi = true
 [etherscan]
 mainnet = { key = "${ETHERSCAN_API_KEY}" }
 sepolia = { key = "${ETHERSCAN_API_KEY}" }

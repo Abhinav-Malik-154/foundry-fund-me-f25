@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity 0.8.19;
+pragma solidity ^0.8.18;
 
 import {DeployFundMe} from "../../script/DeployFundMe.s.sol";
 import {FundMe} from "../../src/FundMe.sol";
@@ -66,7 +66,6 @@ contract FundMeTest is ZkSyncChainChecker, CodeConstants, StdCheats, Test {
         assertEq(funder, USER);
     }
 
-    // https://twitter.com/PaulRBerg/status/1624763320539525121
 
     modifier funded() {
         vm.prank(USER);

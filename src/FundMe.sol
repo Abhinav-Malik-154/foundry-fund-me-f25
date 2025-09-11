@@ -1,9 +1,10 @@
 // SPDX-License-Identifier: MIT
 // 1. Pragma
-pragma solidity 0.8.19;
+pragma solidity ^0.8.18;
 
 // 2. Imports
-import {AggregatorV3Interface} from "@chainlink/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol";
+import {AggregatorV3Interface} from 
+    "../lib/chainlink-brownie-contracts/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol";
 import {PriceConverter} from "./PriceConverter.sol";
 
 // 3. Interfaces, Libraries, Contracts
