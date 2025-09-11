@@ -9,6 +9,7 @@ out/
 /broadcast/
 
 # Docs
+temp_auto_push.bat
 docs/
 
 # Dotenv file
@@ -20,4 +21,6 @@ docs/
 
 zkout/
 
-.DS_Store
+.DS_Store.gitignore
+temp_interactive_push.bat
+branch_structure.json
