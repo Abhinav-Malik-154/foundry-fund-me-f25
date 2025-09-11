@@ -27,7 +27,8 @@ This project allows anyone to **fund the contract with ETH** while ensuring only
 
 ## 📂 Project Structure  
 ├── src/
-│ └── FundMe.sol # Main crowdfunding contract
+│ └
+── FundMe.sol # Main crowdfunding contract
 
 ├── test/
 │ └── FundMe.t.sol # Unit tests for contract
